@@ -1,0 +1,18 @@
+Index: op.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>hehe\r\nhehe\r\nhey hey\r\nbuhahaha\r\nnithin fetch\r\nbuhahaha\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/op.txt b/op.txt
+--- a/op.txt	(revision d3214c4a56dc78ff4a0879a9c9c26b408065e319)
++++ b/op.txt	(date 1742896740684)
+@@ -1,6 +1,1 @@
+-hehe
+-hehe
+-hey hey
+-buhahaha
+-nithin fetch
+-buhahaha
++i changed here
